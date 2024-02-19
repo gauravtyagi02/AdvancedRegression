@@ -43,21 +43,11 @@ Please find the dataset link [here] train.csv
 - R2 Score for Lasso and Ridge is R2_score Test	0.885180(Lasso)	0.878812(Ridge)
 - The various top five independent variables that impact the SalesPrice in Lasso Model.
 
-independentVariabl		beta
-GrLivArea				0.308287	
-OverallQual				0.162438	
-OverallCond				0.094896	
-GarageCars				0.078638	
-MSZoning_RL				0.056504	
+independentVariable and betas respectively GrLivArea - 0.308287, OverallQual - 0.162438, OverallCond	- 0.094896, GarageCars	- 0.078638, MSZoning_RL	- 0.056504	
 
 - The various top five independent variables that impact the SalesPrice in Ridge Model.
 
-independentVariable			beta
-OverallQual				0.128202
-GrLivArea				0.095476
-1stFlrSF				0.083750
-OverallCond				0.079901
-2ndFlrSF				0.063707	
+independentVariable and betas respectively OverallQual - 0.128202, GrLivArea - 0.095476, 1stFlrSF - 0.083750, OverallCond - 0.079901, 2ndFlrSF - 0.063707	
 																																		
 
 ## Contact
